@@ -1,4 +1,5 @@
 # Quantum Computing and Emerging Technologies Assessment Repository
+by Rodrigo Almeida - G00377123
 
 ## Repository Structure
 This file provides a summary of the repository's purpose, contents, and instructions for cloning and running the code/notebooks.
