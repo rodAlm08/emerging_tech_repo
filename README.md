@@ -1,4 +1,7 @@
-# Quantum Computing and Emerging Technologies Assessment Repository
+![ATU_Logo-removebg-preview](https://github.com/rodAlm08/EmergingTech/assets/92544667/4f8e9ca7-6b9f-432b-81fe-d5c779151817)
+
+# Quantum Computing and Emerging Technologies 
+Assessment Repository
 by Rodrigo Almeida - G00377123
 
 ## Repository Structure
