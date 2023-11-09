@@ -1,4 +1,6 @@
-<img src="https://github.com/rodAlm08/EmergingTech/assets/92544667/4f8e9ca7-6b9f-432b-81fe-d5c779151817" alt="ATU_Logo-removebg-preview" width="80%">
+<div style="text-align: center;">
+    <img src="./images/ATU_Logo-removebg-preview.png" width="60%" alt="ATU Logo">
+</div>
 
 
 # Quantum Computing and Emerging Technologies 
@@ -19,7 +21,7 @@ This notebook explores Deutsch's Algorithm, presenting the problem, explaining t
 
 # Follow the below instructions to Clone and Run this Repository
 
-1. Clone the Repository:
+## Clone the Repository:
 
 Open your terminal or Git Bash.
 Navigate to the directory where you want to clone the repository.
@@ -27,18 +29,26 @@ Use the following command to clone the repository:
 
 `git clone https://github.com/rodAlm08/EmergingTech.git`
 
-2. Navigate to the Repository:
+## Navigate to the Repository:
 
 Change directory to the cloned repository:
 
 `cd EmergingTech`
 
-3. Run Jupyter Notebooks:
+## Install Python and Required Libraries:
+Make sure you have Python installed on your system. If not, you can download and install Python from the official Python website.
 
-Ensure you have Python and Jupyter Notebook installed on your system.
-Start Jupyter Notebook by running the following command in your terminal:
+Install the required Python libraries using pip. Run the following commands in your terminal or command prompt:
+
+`pip install qiskit numpy seaborn matplotlib`
+
+## Run Jupyter Notebooks:
+
+1- Start Jupyter Notebook by running the following command in your terminal:
 
 `jupyter notebook`
 
-Your default web browser will open with the Jupyter Notebook interface.
-Navigate to the repository folder and open tasks.ipynb or project.ipynb to view and run the notebooks.
+2- Your default web browser will open with the Jupyter Notebook interface.
+
+3- Navigate to the repository folder and open tasks.ipynb or project.ipynb to view and run the notebooks.
+
