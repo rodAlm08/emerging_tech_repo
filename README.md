@@ -1,4 +1,4 @@
-<img src="https://github.com/rodAlm08/EmergingTech/assets/92544667/4f8e9ca7-6b9f-432b-81fe-d5c779151817" alt="ATU_Logo-removebg-preview" width="50%">
+<img src="https://github.com/rodAlm08/EmergingTech/assets/92544667/4f8e9ca7-6b9f-432b-81fe-d5c779151817" alt="ATU_Logo-removebg-preview" width="80%">
 
 
 # Quantum Computing and Emerging Technologies 
