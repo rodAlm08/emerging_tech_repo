@@ -3,7 +3,7 @@
 </div>
 
 
-# Quantum Computing and Emerging Technologies 
+# Emerging Technologies 
 Assessment Repository
 by Rodrigo Almeida - G00377123
 
