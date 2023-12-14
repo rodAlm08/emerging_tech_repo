@@ -3,14 +3,14 @@
 </div>
 
 
-# Emerging Technologies 
-Assessment Repository
-by Rodrigo Almeida - G00377123
+# Emerging Technologies Assessment Repository
 
-<!-- -->
+Rodrigo Almeida - G00377123
+
+## Overview
+This repository is dedicated to the Emerging Technologies course assignments and projects. It contains detailed Jupyter notebooks which demonstrate my comprehension and application of emerging technologies, with emphasis on quantum computing.
 
 ## Repository Structure
-This file provides a summary of the repository's purpose, contents, and instructions for cloning and running the code/notebooks.
 
 ### .gitignore: 
 A configuration file ensuring that temporary files and folders not essential for version control are ignored.
@@ -21,46 +21,44 @@ In this notebook, you will find my solutions to the tasks associated with each c
 ### project.ipynb: 
 This notebook explores Deutsch's Algorithm, presenting the problem, explaining the algorithm using a mix of Markdown, LaTeX notation, tables, and plots, and demonstrating the implementation of the algorithm using Qiskit, including necessary oracle circuits. The efficacy of the algorithm will be validated through simulation.
 
-# Follow the below instructions to Clone and Run this Repository
+# Getting started
+
+## Prerequisites
+Before proceeding, please ensure you have installed:
+
+- [Anaconda](https://www.anaconda.com/products/distribution)
+
+- [Git](https://git-scm.com/downloads)
+
+- [Visual Studio Code](https://code.visualstudio.com/download)
+
+- [Qiskit](https://qiskit.org/)
+
 
 ## Clone the Repository:
 
-Open your terminal or Git Bash.
-Navigate to the directory where you want to clone the repository.
-Use the following command to clone the repository:
+1. Open your terminal or Git Bash.
+2. Navigate to the directory where you want to clone the repository.
+3. Use the following command to clone the repository:
 
-`git clone https://github.com/rodAlm08/EmergingTech.git`
+    <br>`git clone https://github.com/rodAlm08/EmergingTech.git`
 
-## Navigate to the Repository:
+## Setup the Environment:
 
-Change directory to the cloned repository:
-
+1. Change directory to the cloned repository:
 `cd EmergingTech`
 
-## Install Python and Required Libraries:
-Make sure you have Python installed on your system. If not, you can download and install Python from the official Python website.
+2. If Python is not installed, download and install it from the [official Python website](https://www.python.org/downloads/).
 
-Install the required Python libraries using pip. Run the following commands in your terminal or command prompt:
-
+3. Install the required Python libraries using pip. Run the following commands in your terminal or command prompt:
 `pip install qiskit numpy seaborn matplotlib`
+
 
 ## Run Jupyter Notebooks:
 
-1- Start Jupyter Notebook by running the following command in your terminal:
-
+1. Start Jupyter Notebook by running the following command in your terminal:
 `jupyter notebook`
 
-2- Your default web browser will open with the Jupyter Notebook interface.
+2. Your default web browser will open with the Jupyter Notebook interface.
 
-3- Navigate to the repository folder and open tasks.ipynb or project.ipynb to view and run the notebooks.
-
-
-prerequisites:
-Anaconda
-GIt
-Visual Studio Code
-Qiskit
-
-how to run:
-install preqrequisits
-clone repository
+3. Navigate to the repository folder and open tasks.ipynb or project.ipynb to view and run the notebooks.
